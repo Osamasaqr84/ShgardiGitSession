@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
 
   val name = "shabiak"
 
+    val sessionName = "SecondSession"
+    val memmbers = 20
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
