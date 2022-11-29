@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
   val name = "shabiak"
 
+    val sessionName = "SecondSession"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
